@@ -4,6 +4,9 @@ def main():
 
 def hello():
     print('hello')
+
+def omar():
+    print("طول بالك")
     
 hello()
 if __name__ == '__main__':
